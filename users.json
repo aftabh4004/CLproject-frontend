@@ -1,0 +1,38 @@
+{
+  "user1": {
+    "name": "Aftab Hussain",
+    "username": "aftabh4004",
+    "password": "asd",
+    "type": "admin"
+  },
+  "user2": {
+    "name": "Ritik Raj",
+    "username": "rrtik",
+    "password": "qwe",
+    "type": "user"
+  },
+  "user3": {
+    "name": "Rahul Mool",
+    "username": "rahulm",
+    "password": "zxc",
+    "type": "user"
+  },
+  "user3471": {
+    "name": "Vani Gupta",
+    "username": "vani24",
+    "password": "mnb",
+    "type": "user"
+  },
+  "user4591": {
+    "name": "Sagir",
+    "username": "sagir",
+    "password": "pp",
+    "type": "user"
+  },
+  "user5671": {
+    "name": "Vandana",
+    "username": "van2000",
+    "password": "rr",
+    "type": "user"
+  }
+}
